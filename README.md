@@ -17,6 +17,6 @@ python3 main.py
 If you don't want to run a virtualenv, just run the two last lines.
 
 
-# Things to take into account when executing this program
+# Things to take into account when running this program
 
 This program creates a JSON file in the same directory where the program is executed.
