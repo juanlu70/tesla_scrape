@@ -7,10 +7,12 @@ You can run 'as is' or you can create a virtual environment to run it.
 
 Follow this steps to run in a Python virtualenv environment:
 
-`virtualenv venv`
-`source venv/bin/activate`
-`pip3 install -r requirements.txt`
-`python3 main.py`
+```
+virtualenv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```
 
 If you don't want to run a virtualenv, just run the two last lines.
 
